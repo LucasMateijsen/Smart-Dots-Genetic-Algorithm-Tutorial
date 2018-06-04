@@ -4,7 +4,7 @@ You can find the original Github repo here: https://github.com/Code-Bullet/Smart
 You can view the youtube tutorial here: https://www.youtube.com/watch?v=BOZfhUcNiqk&t=114s
 
 ### Demo
-View a live demo @ https://lucasmateijsen.github.io/Smart-Dots-Genetic-Algorithm-Tutorial/
+View a live demo @ <a href="https://lucasmateijsen.github.io/Smart-Dots-Genetic-Algorithm-Tutorial/BestTutorialEver">Here</a>
 
 ### Stats
 Every time you press F5, it will create a new array in your Local Storage to save the statistics
