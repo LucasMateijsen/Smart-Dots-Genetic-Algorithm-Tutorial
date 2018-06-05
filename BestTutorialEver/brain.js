@@ -28,7 +28,7 @@ Brain.prototype.clone = function() {
 
 // mutates the brain by setting some of the directions to random vectors
 Brain.prototype.mutate = function() {
-    var mutationRate = 0.2; //chance that any vector in directions gets changed
+    var mutationRate = 0.01; //chance that any vector in directions gets changed
     for (var i = 0; i< this.directions.length; i++) {
         var rand = Math.random();
         if (rand < mutationRate) {
